@@ -1,0 +1,23 @@
+﻿.sidebar-link {
+    color: black;
+    border-radius: 6px;
+    margin: 2px 0;
+    transition: all 0.2s ease-in-out;
+}
+
+.sidebar-link:hover {
+    color: white;
+    background-color: black;
+}
+
+.logout {
+    color: black;
+    border-radius: 6px;
+    margin: 2px 0;
+    transition: all 0.2s ease-in-out;
+}
+
+.logout:hover {
+    color: white;
+    background-color: red;
+}

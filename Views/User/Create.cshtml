@@ -1,0 +1,31 @@
+﻿@using test.Models
+@model ApplicationUser
+@{
+    ViewData["Title"] = "Create Account";
+}
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+<hr />
+<div class="d-flex justify-content-center align-items-center">
+    <div class="card shadow col-4 p-3">
+        <form asp-action="Create" asp-controller="User">
+            <input type="hidden" asp-for="ID" />
+            <div class="mb-2">
+                <label asp-for="Username" class="form-label"></label>
+                <input asp-for="Username" class="form-control" />
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="mb-2">
+                <label asp-for="Email" class="form-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="mb-2">
+                <label asp-for="Password" class="form-label"></label>
+                <input type="password" asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Create</button>
+        </form>
+    </div>
+</div>
