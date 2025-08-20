@@ -169,3 +169,4 @@ C:\Users\wesat\source\repos\test\obj\Debug\net9.0\test.RazorAssemblyInfo.cache
 C:\Users\wesat\source\repos\test\obj\Debug\net9.0\test.RazorAssemblyInfo.cs
 C:\Users\wesat\source\repos\test\bin\Debug\net9.0\test.staticwebassets.runtime.json
 C:\Users\wesat\source\repos\test\obj\Debug\net9.0\compressed\gsjg7bhpqn-yr7gyf5be7.gz
+C:\Users\wesat\source\repos\test\obj\Debug\net9.0\test.sourcelink.json

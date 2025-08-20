@@ -20,8 +20,7 @@ namespace test.Controllers
             // saying IsValid here auto detects if something didn't bind to our User model correctly.
             if(ModelState.IsValid)
             {  
-                userRequest.Ints = [1, 2, 3];
-                //_context.Users.Add(userRequest);
+                _context.Users.Add(userRequest);
                 await _context.SaveChangesAsync();
                 return Redirect("User/Login");
             }

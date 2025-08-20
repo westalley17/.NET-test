@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\wesat\\source\\repos\\test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7297D9FC-0B6D-4D41-8322-6635B136A28F}|test.csproj|c:\\users\\wesat\\source\\repos\\test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7297D9FC-0B6D-4D41-8322-6635B136A28F}|test.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wesat\\source\\repos\\test\\Data\\Migrations\\20250820001637_AddWeddingFKApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250820001637_AddWeddingFKApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7297D9FC-0B6D-4D41-8322-6635B136A28F}|test.csproj|c:\\users\\wesat\\source\\repos\\test\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7297D9FC-0B6D-4D41-8322-6635B136A28F}|test.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7297D9FC-0B6D-4D41-8322-6635B136A28F}|test.csproj|c:\\users\\wesat\\source\\repos\\test\\models\\wedding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297D9FC-0B6D-4D41-8322-6635B136A28F}|test.csproj|solutionrelative:models\\wedding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wesat\\source\\repos\\test\\Data\\Migrations\\20250820001507_AddWeddingFKApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250820001507_AddWeddingFKApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wesat\\source\\repos\\test\\Data\\Migrations\\20250820000551_AddWeddingFKApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250820000551_AddWeddingFKApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7297D9FC-0B6D-4D41-8322-6635B136A28F}|test.csproj|c:\\users\\wesat\\source\\repos\\test\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7297D9FC-0B6D-4D41-8322-6635B136A28F}|test.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7297D9FC-0B6D-4D41-8322-6635B136A28F}|test.csproj|c:\\users\\wesat\\source\\repos\\test\\data\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7297D9FC-0B6D-4D41-8322-6635B136A28F}|test.csproj|solutionrelative:data\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7297D9FC-0B6D-4D41-8322-6635B136A28F}|test.csproj|c:\\users\\wesat\\source\\repos\\test\\models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297D9FC-0B6D-4D41-8322-6635B136A28F}|test.csproj|solutionrelative:models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7297D9FC-0B6D-4D41-8322-6635B136A28F}|test.csproj|c:\\users\\wesat\\source\\repos\\test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7297D9FC-0B6D-4D41-8322-6635B136A28F}|test.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +47,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\wesat\\source\\repos\\test\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\wesat\\source\\repos\\test\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAA8wDcAAAAIAAAAAAAAAA==",
+              "Title": "20250820001637_AddWeddingFKApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\wesat\\source\\repos\\test\\Data\\Migrations\\20250820001637_AddWeddingFKApplicationUser.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250820001637_AddWeddingFKApplicationUser.cs",
+              "ToolTip": "C:\\Users\\wesat\\source\\repos\\test\\Data\\Migrations\\20250820001637_AddWeddingFKApplicationUser.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250820001637_AddWeddingFKApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T00:49:45.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\wesat\\source\\repos\\test\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\wesat\\source\\repos\\test\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T00:49:38.325Z",
+              "WhenOpened": "2025-08-20T00:16:37.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TestDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\wesat\\source\\repos\\test\\Data\\TestDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\TestDbContext.cs",
-              "ToolTip": "C:\\Users\\wesat\\source\\repos\\test\\Data\\TestDbContext.cs",
-              "RelativeToolTip": "Data\\TestDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Title": "20250820001507_AddWeddingFKApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\wesat\\source\\repos\\test\\Data\\Migrations\\20250820001507_AddWeddingFKApplicationUser.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250820001507_AddWeddingFKApplicationUser.cs",
+              "ToolTip": "C:\\Users\\wesat\\source\\repos\\test\\Data\\Migrations\\20250820001507_AddWeddingFKApplicationUser.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250820001507_AddWeddingFKApplicationUser.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwEAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T00:29:13.456Z",
+              "WhenOpened": "2025-08-20T00:15:07.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250820000551_AddWeddingFKApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\wesat\\source\\repos\\test\\Data\\Migrations\\20250820000551_AddWeddingFKApplicationUser.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250820000551_AddWeddingFKApplicationUser.cs",
+              "ToolTip": "C:\\Users\\wesat\\source\\repos\\test\\Data\\Migrations\\20250820000551_AddWeddingFKApplicationUser.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250820000551_AddWeddingFKApplicationUser.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwE4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T00:05:51.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\wesat\\source\\repos\\test\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\wesat\\source\\repos\\test\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T23:59:17.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\wesat\\source\\repos\\test\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\wesat\\source\\repos\\test\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T23:59:13.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\wesat\\source\\repos\\test\\Models\\ModelBase.cs",
+              "RelativeDocumentMoniker": "Models\\ModelBase.cs",
+              "ToolTip": "C:\\Users\\wesat\\source\\repos\\test\\Models\\ModelBase.cs",
+              "RelativeToolTip": "Models\\ModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T23:58:27.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wedding.cs",
+              "DocumentMoniker": "C:\\Users\\wesat\\source\\repos\\test\\Models\\Wedding.cs",
+              "RelativeDocumentMoniker": "Models\\Wedding.cs",
+              "ToolTip": "C:\\Users\\wesat\\source\\repos\\test\\Models\\Wedding.cs",
+              "RelativeToolTip": "Models\\Wedding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T23:50:45.783Z",
               "EditorCaption": ""
             },
             {
@@ -75,7 +143,7 @@
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "C:\\Users\\wesat\\source\\repos\\test\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T23:58:43.195Z",
               "EditorCaption": ""
